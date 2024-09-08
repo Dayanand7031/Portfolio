@@ -1,5 +1,5 @@
 import React from 'react';
-import pic from '../../public/Portfolio.png'
+import pic from '../../public/portfolio.png'
 import { FaInstagram } from "react-icons/fa";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
